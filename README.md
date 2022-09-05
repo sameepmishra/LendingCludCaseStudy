@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Clud Case Study
 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sameepmishra] - feel free to contact me!
 
 
 <!-- Optional -->
