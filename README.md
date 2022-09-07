@@ -67,10 +67,6 @@ Find the opptunity area, increase the growth in areas with low risk possibilitie
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
 
 ## Contact
 Created by [@sameepmishra and @sauravujjain] - feel free to contact us!
