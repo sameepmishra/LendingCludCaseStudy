@@ -11,31 +11,31 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Analysing of the data provided by Lending Clud to identify risk & opportunity areas for the organization.
+- Analysis of the data provided by Lending Club to identify risk & opportunity areas for the organization.
 
-- Lending Club is a lending provider and Analysis of the Loan Distribution performed to minimize the financial loss & increase profitibility.
+- Lending Club is a money lending provider and an Analysis of the Loan Distribution is performed to minimize the financial loss & increase profitability.
 
-- We are trying figure below scopes
-Find the risk area, minimize the risk by reducing loan distribution in future.
-Find the opptunity area, increase the growth in areas with low risk possibilities
+- We are trying to figure below scopes
+Find the risk area, and minimize the risk by reducing loan distribution in future.
+Find the opportunity area, increase the growth in areas with low-risk possibilities
 
 - Loan Distribution Data set including historical & current data sets.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The risk distribution balance can be seen in "Verification Status", the distribution has close to 1:3 ratio on "Not Verified" & "Verifed" respectively.
-- The percentage of "Not Verified" should be reduced by doing more "Verified" which should help directly help in reducing approval high risk applications.
+- The risk distribution balance can be seen in "Verification Status", the distribution has a close to 1:3 ratio on "Not Verified" & "Verified" respectively.
+- The percentage of "Not Verified" should be reduced by doing more "Verified" which should help directly help in reducing approval of high-risk applications.
 
-- In "Home_Ownership" in "Current" data set, the loan distribution is high to people with "Mortgage".
-- Customer with existing obligation(Mortage), it puts additional burden to customer during repay. High chance of default during economic downfall.
-- Instead, we see there a huge opportunity space available on people with Own property. They are always tracable property state is stable.
+- In "Home_Ownership" in the "Current" data set, the loan distribution is high for people with "Mortgage".
+- Customer with existing obligation(Mortage), puts an additional burden on the customer during repayment. High chance of default during the economic downfall.
+- Instead, we see there is a huge opportunity space available for people with their “OWN” property. They are always traceable property state is stable.
 
-- Geo Distributuion of loan, it shows majority of loans were distributed in CA state and others states should be considerd as opportunity for expansion.
-- While further analysing analysing above point, we provisioned Income Vs States chart. It indicates people from other states have close to same income as CA state.
+- Geo Distribution of loans, shows the majority of loans were distributed in CA state and others states should be considered as an opportunity for expansion.
+- While further analysing the above point, we provisioned the Income Vs States chart. It indicates people from other states have close to the same income as CA state.
 
-- In "Loan Distribution Vs Purpose", it is visible the highest distribution is with "Renewal_Energy" which is fair as it provides reoccuring savings to user so changes of default is less.
-- Loan for Car should be increased as it very less risky investment since car would be collateral.
+- In "Loan Distribution Vs Purpose", it is visible the highest distribution is with "Renewal_Energy" which is fair as it provides reoccurring savings to the user so changes of default are less.
+- Loan for Car should be increased as it very less risky investment since the car would be collateral.
 - CreditCard & DebtConsolidation, it should consider high risk as it indicates poor financial handling of the customer.
 - House should targeted as high as RenewalEnergy as collateral would be there.
 - Wedding & Medical should be considered high risk as there is no collateral in both and In Medical, if customer is taking treatment for self, there is high possibility of delay\drop in repay.
@@ -53,6 +53,7 @@ Find the opptunity area, increase the growth in areas with low risk possibilitie
 
 - With "Employment Length Vs Loan Status" Chart, it compares the impact of Work Experience on Loan Status.
 - It indicates the default percentage ranges betweek 13-15% in all experience buckets starting 0.5 to 10+ years of experience.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
