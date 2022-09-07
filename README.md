@@ -1,6 +1,9 @@
 # Project Name
 > Lending Clud Case Study
 
+## Group Members:
+
+1. Sameep Mishra (Group Facilitator) 2. Saurav Ujjain (Group Member)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,15 +14,35 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+
+
 - Analysis of the data provided by Lending Club to identify risk & opportunity areas for the organization.
 
 - Lending Club is a money lending provider and an Analysis of the Loan Distribution is performed to minimize the financial loss & increase profitability.
 
 - We are trying to figure below scopes
-Find the risk area, and minimize the risk by reducing loan distribution in future.
-Find the opportunity area, increase the growth in areas with low-risk possibilities
+1. Find the risk area, and minimize the risk by reducing loan distribution in future.
+2. Find the opportunity area, increase the growth in areas with low-risk possibilities
 
 - Loan Distribution Data set including historical & current data sets.
+
+### Analysis Approach
+
+1. Data Understanding - Identify quality issues , Interpret the correct meaning of vairables (Columns)
+2. Data Cleaning and Manipulation - Data (like strings and dates) are corrected to the right type to facilitate analysis , Empty (Null) value columns and variables are removed
+
+3. Data Analysis -
+
+a. Use univariate and Segmented Univariate analysis to identify atleast 5 drivers (Indicators) of defaults
+
+b. Create new Derrived metrics wherever needed (whether business driven, Type driven or Data driven) to get new maningful business insights
+
+c.Bivariate and Multivariate analysis are done to understand combination of loan default and loan success drivers which makes business sense.
+
+Also Plot appropriate graphs with to present the results of the above types of analysis and to make it easy to draw clear insights.
+
+4. Presentation and Recommendations - A summary of the full analysis is created in a presentation format , explaining the insgihts drawn towards the default drivers and busines loss drivers with clear actionable suggestions for improvement in default reduction and slection of better loan canditates.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
